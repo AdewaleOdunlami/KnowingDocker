@@ -1,0 +1,8 @@
+/Users/adewaleodunlami/myapp/bin/Debug/netcoreapp1.1/myapp.deps.json
+/Users/adewaleodunlami/myapp/bin/Debug/netcoreapp1.1/myapp.runtimeconfig.json
+/Users/adewaleodunlami/myapp/bin/Debug/netcoreapp1.1/myapp.runtimeconfig.dev.json
+/Users/adewaleodunlami/myapp/bin/Debug/netcoreapp1.1/myapp.dll
+/Users/adewaleodunlami/myapp/bin/Debug/netcoreapp1.1/myapp.pdb
+/Users/adewaleodunlami/myapp/obj/Debug/netcoreapp1.1/myapp.AssemblyInfo.cs
+/Users/adewaleodunlami/myapp/obj/Debug/netcoreapp1.1/myapp.dll
+/Users/adewaleodunlami/myapp/obj/Debug/netcoreapp1.1/myapp.pdb
