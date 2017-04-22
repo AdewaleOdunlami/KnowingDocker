@@ -6,3 +6,11 @@
 /Users/adewaleodunlami/myapp/obj/Debug/netcoreapp1.1/myapp.AssemblyInfo.cs
 /Users/adewaleodunlami/myapp/obj/Debug/netcoreapp1.1/myapp.dll
 /Users/adewaleodunlami/myapp/obj/Debug/netcoreapp1.1/myapp.pdb
+/Users/adewaleodunlami/Documents/KnowingDocker/myapp/bin/Debug/netcoreapp1.1/myapp.deps.json
+/Users/adewaleodunlami/Documents/KnowingDocker/myapp/bin/Debug/netcoreapp1.1/myapp.runtimeconfig.json
+/Users/adewaleodunlami/Documents/KnowingDocker/myapp/bin/Debug/netcoreapp1.1/myapp.runtimeconfig.dev.json
+/Users/adewaleodunlami/Documents/KnowingDocker/myapp/bin/Debug/netcoreapp1.1/myapp.dll
+/Users/adewaleodunlami/Documents/KnowingDocker/myapp/bin/Debug/netcoreapp1.1/myapp.pdb
+/Users/adewaleodunlami/Documents/KnowingDocker/myapp/obj/Debug/netcoreapp1.1/myapp.AssemblyInfo.cs
+/Users/adewaleodunlami/Documents/KnowingDocker/myapp/obj/Debug/netcoreapp1.1/myapp.dll
+/Users/adewaleodunlami/Documents/KnowingDocker/myapp/obj/Debug/netcoreapp1.1/myapp.pdb

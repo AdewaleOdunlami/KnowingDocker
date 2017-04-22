@@ -9652,16 +9652,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/adewaleodunlami/myapp/myapp.csproj",
+      "projectUniqueName": "/Users/adewaleodunlami/Documents/KnowingDocker/myapp/myapp.csproj",
       "projectName": "myapp",
-      "projectPath": "/Users/adewaleodunlami/myapp/myapp.csproj",
-      "outputPath": "/Users/adewaleodunlami/myapp/obj/",
+      "projectPath": "/Users/adewaleodunlami/Documents/KnowingDocker/myapp/myapp.csproj",
+      "outputPath": "/Users/adewaleodunlami/Documents/KnowingDocker/myapp/obj/",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/myapp.dll": "/Users/adewaleodunlami/myapp/bin/placeholder/netcoreapp1.1/myapp.dll"
+        "lib/netcoreapp1.1/myapp.dll": "/Users/adewaleodunlami/Documents/KnowingDocker/myapp/bin/placeholder/netcoreapp1.1/myapp.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {
